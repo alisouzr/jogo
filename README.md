@@ -1,4 +1,4 @@
-Jogo de Pedra, Papel e Tesoura, jogado no próprio terminal da IDE utilzada -no meu caso foi o VS code.
+Jogo de Pedra, Papel e Tesoura, jogado no próprio terminal da IDE utilzada -no meu caso foi o VS code e estou usando o Windows como sistema operacional.
 
 ![image](https://user-images.githubusercontent.com/79667413/161571756-a97ab1f8-de28-4cf3-805b-ca0d6716a1ab.png) 
 (print no navegador)
