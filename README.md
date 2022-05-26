@@ -8,4 +8,4 @@
 </div>
 
 <br>
-Play here -> https://replit.com/@alisouzr/rock-paper-scissors?v=1
+<strong>Play here</strong> -> https://replit.com/@alisouzr/rock-paper-scissors?v=1
