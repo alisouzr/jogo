@@ -1,16 +1,11 @@
-Jogo de Pedra, Papel e Tesoura, jogado no próprio terminal da IDE utilzada -no meu caso foi o VS code e estou usando o Windows como sistema operacional.
+# A rock-paper-scissors Game 
 
-![image](https://user-images.githubusercontent.com/79667413/161571756-a97ab1f8-de28-4cf3-805b-ca0d6716a1ab.png) 
-(print no navegador)
+<a href="https://replit.com/@alisouzr/rock-paper-scissors?v=1">![image](https://user-images.githubusercontent.com/79667413/170506175-f723828a-91b7-4fc3-8e70-8a0289c9b779.png)</a>
 
-Teste ->
-1. Abra o arquivo .py
-2. Copie todo o código
-3. Abra no seu navegador o site : https://www.programiz.com/python-programming/online-compiler/
-4. Cole o código copiado no lado esquerdo do site
-5. Clique em "Run"
-6. E jogue no Shell - do lado direito do site
-7. Agora aproveite e se divirta!
+<div style="display: inline_block">
+  <h4>Technology used</h4>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+</div>
 
-![image](https://user-images.githubusercontent.com/79667413/156860884-42ee953d-9537-4ba1-a85c-05c835770bef.png)
-(print no terminal da IDE)
+<br>
+Play here -> https://replit.com/@alisouzr/rock-paper-scissors?v=1
